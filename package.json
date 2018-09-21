@@ -13,6 +13,8 @@
   "author": "Liam",
   "license": "ISC",
   "dependencies": {
+    "growl": "1.10.5",
+    "cryptiles": "4.1.2",
     "images-downloader": "^1.0.3",
     "jquery": "^3.3.1",
     "request": "^2.88.0",
@@ -23,11 +25,11 @@
     "electron-builder": "^20.28.4"
   },
   "build": {
-   "appId": "com.jamzi.quickstart",
-   "win": {
-     "target": "nsis",
-     "icon": "build/icon.ico",
-     "publisherName": "Liam"
-   }
-}
+    "appId": "com.jamzi.quickstart",
+    "win": {
+      "target": "nsis",
+      "icon": "build/icon.ico",
+      "publisherName": "Liam"
+    }
+  }
 }
