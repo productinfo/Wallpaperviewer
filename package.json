@@ -13,16 +13,17 @@
   "author": "Liam",
   "license": "ISC",
   "dependencies": {
+    "debug": "4.0.1",
     "growl": "1.10.5",
     "cryptiles": "4.1.2",
-    "images-downloader": "^1.0.3",
-    "jquery": "^3.3.1",
-    "request": "^2.88.0",
-    "wallpaper": "^3.0.0"
+    "images-downloader": "1.0.3",
+    "jquery": "3.3.1",
+    "request": "2.88.0",
+    "wallpaper": "3.0.0"
   },
   "devDependencies": {
-    "electron": "^3.0.0",
-    "electron-builder": "^20.28.4"
+    "electron": "3.0.0",
+    "electron-builder": "20.28.4"
   },
   "build": {
     "appId": "com.jamzi.quickstart",
