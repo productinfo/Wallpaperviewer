@@ -22,7 +22,7 @@
     "wallpaper": "4.1.0"
   },
   "devDependencies": {
-    "electron": "3.0.5",
+    "electron": "3.0.6",
     "electron-builder": "20.28.4"
   },
   "build": {
