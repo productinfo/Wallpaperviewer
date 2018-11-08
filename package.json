@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "electron": "3.0.8",
-    "electron-builder": "20.31.2"
+    "electron-builder": "20.33.2"
   },
   "build": {
     "appId": "com.jamzi.quickstart",
